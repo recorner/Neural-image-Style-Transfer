@@ -16,7 +16,7 @@ To get started with Artistic Style Transfer, follow these steps:
 
 1. **Clone the Repository:**
    ```bash        
-  sudo git clone https://github.com/recorner/Neural-image-Style-Transfer
+   sudo git clone https://github.com/recorner/Neural-image-Style-Transfer
 ## Install Dependencies:
 
 1. **Ensure you have Python and the required libraries installed:**
