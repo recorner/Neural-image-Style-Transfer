@@ -1,6 +1,6 @@
 # Artistic Style Transfer
 
-Welcome to the Artistic Style Transfer project! This innovative project leverages deep learning techniques to transform ordinary photos into stunning works of art. Using neural style transfer, this project allows you to apply the artistic styles of famous paintings, iconic artworks, or your own custom styles to your favorite images. Unleash your creativity and explore the fusion of art and technology through the magic of style transfer.
+WThis innovative project leverages deep learning techniques to transform ordinary photos into stunning works of art. Using neural style transfer, this project allows you to apply the artistic styles of famous paintings, iconic artworks, or your own custom styles to your favorite images. Push your creativity and explore the fusion of art and technology through style transfer.
 
 ## Features
 
