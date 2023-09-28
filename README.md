@@ -18,9 +18,15 @@ To get started with Artistic Style Transfer, follow these steps:
    ```bash        
    git clone https://github.com/your-username/Artistic-Style-Transfer.git
 ## Install Dependencies:
-**Ensure you have Python and the required libraries installed:**
+
+1. **Ensure you have Python and the required libraries installed:**
       ```bash  
       pip install tensorflow pillow flask
+
+2. **run the application:**
+      ```bash  
+       sudo python app.py
+            
 
 
   
